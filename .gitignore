@@ -1,0 +1,8 @@
+RemoteController.xcodeproj
+RemoteControllerTests
+RemoteController/RemoteController-Info.plist
+RemoteController/RemoteController-Prefix.pch
+RemoteController/Images.xcassets
+RemoteController/en.lproj
+RemoteController/Base.lproj
+
